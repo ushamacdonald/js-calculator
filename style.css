@@ -1,0 +1,32 @@
+#calcContainer {
+  background-color: #ffcbd3;
+width: 200px;
+height: 230px;
+border-radius: 8px;
+border: #e5a3ad solid 2px;
+}
+#answer {
+  width:130px;
+  height:25px;
+  margin-top: 15px;
+
+}
+#zero
+{
+  width: 75px;
+}
+input[type=button] {
+  margin: 5px;
+  height:30px;
+  width:30px;
+
+}
+#answerContainer {
+  text-align: center;
+}
+#buttonsContainer {
+  width:180px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top:5px;
+}
